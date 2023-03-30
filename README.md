@@ -3,7 +3,7 @@ Smart contracts repo for solana swipe application. Used as a submodule.
 
 ## Finalists at Encode Club Solana Hackathon
 
-See full project here
+See full project Frontend IOS Repo here: 
 
 https://github.com/mmsaki/swipe-solana-mobile
 
